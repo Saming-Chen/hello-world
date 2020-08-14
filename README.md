@@ -1,3 +1,3 @@
 # hello-world
 just for learning !
-just write too give some changes for it !
+just write to give some changes for it !
